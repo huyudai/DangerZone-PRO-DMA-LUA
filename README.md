@@ -29,7 +29,11 @@ LUA设计对用户而言非常安全<br>
 **dz_valorantkf.lua**:dz_visual的分支 瓦格兰特击杀特效(需要外部文件)<br>
 **dz_visibletime.lua**:性能问题待修复。<br>
 **dz_particle.lua**:计划<br>
-不会调整里面的value详见example文件夹下的图片<br>
+不会调整里面的value详见example文件夹下的图片<br><img width="884" height="687" alt="dz4" src="https://github.com/user-attachments/assets/446261ec-1a4f-4ea2-866c-f56354fe4b4a" />
+<img width="896" height="700" alt="dz3" src="https://github.com/user-attachments/assets/15fad131-7f7c-4004-b3cc-fc32d8ab1468" />
+<img width="896" height="704" alt="dz2" src="https://github.com/user-attachments/assets/0dfafc8c-c1b5-426c-b962-f4a7e4d1eb10" />
+<img width="900" height="695" alt="dz1" src="https://github.com/user-attachments/assets/78a989ab-9e08-4d1b-a042-d55c99ce4391" />
+
 ## DangerZone.lua — 外部文件使用列表
 
 **dz_valorantkf.lua**:放在**Scripts/dz_project/valorant**<br>
