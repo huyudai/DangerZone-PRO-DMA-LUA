@@ -1,6 +1,7 @@
 --在PRO中，打开旋转雷达才能打开迫击炮雷达，所以这个LUA是给需要独立迫击炮雷达的人准备的
 --也许这是一个软件问题 ，也许这并不是一个软件问题，总之，无论软件是否更新或者修补他，你可以一直使用此lua。
 --地铁模式玩家请自行补全该死的漫长的不可copy的狗屎物品名
+--2026年9月3日 此功能已被合并进软件本体
 --if u have any questions and advice,
 --please contact me on discord:huyudai
 --or e-mail:admin@00.sb
