@@ -27,6 +27,7 @@ LUA设计对用户而言非常安全<br>
 **outdated_dz_independPJPrader_fix.lua**:已被PRO于2026年9月3日合并进本体。<br>
 **dangerzone_legit.lua**: 显示自身血量 合法玩家显示(通常用于检测玩家是否soundable) 自瞄跳过敌人上下车时<br>
 **dz_valorantkf.lua**:dz_visual的分支 瓦格兰特击杀特效(需要外部文件)<br>
+**dz_visual2.lua**:dz_visual的分支 支持天使光环和China hat绘制(需要注意性能问题!)<br>
 **dz_visibletime.lua**:性能问题待修复。<br>
 **dz_particle.lua**:计划<br>
 不会调整里面的value详见example文件夹下的图片<br><img width="884" height="687" alt="dz4" src="https://github.com/user-attachments/assets/446261ec-1a4f-4ea2-866c-f56354fe4b4a" />
