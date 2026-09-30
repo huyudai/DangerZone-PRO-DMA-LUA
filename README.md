@@ -15,29 +15,33 @@
 PRO官方频道https://t.me/hpProDMA/ <br>
 祝PRO一路长虹。<br>
 ## 更新日志
-NONE
+10.1:dz_hat.lua v1.1 updated:添加开镜检测<br>
 ## 评论PRO-SOFTWARE<br>
 无可置疑的是，PRO是有史以来**对开发者而言最友好**，**最开放**，**更新最迅速**的D-M-A作弊软件。<br>
 LUA设计对用户而言非常安全<br>
 
 ## 不良反应
-均未见明显性能异常<br>
+性能警告:**dz_particle_orb_beta.lua**<br>
 均未见明显功能异常<br>
 ## DangerZone.lua — 功能列表
-**outdated_dz_independPJPrader_fix.lua**:已被PRO于2026年9月3日合并进本体。<br>
-**dangerzone_legit.lua**: 显示自身血量 合法玩家显示(通常用于检测玩家是否soundable) 自瞄跳过敌人上下车时<br>
+**dz_independPJPrader_fix.lua**:已被PRO于2026年9月3日合并进本体。<br>
+**dangerzone_legit.lua**: 已拆分<br>
+**dz_hp.lua**:dz_visual的分支 显示自身血量<br>
+**dz_hpline.lua**:dz_visual的分支 经络的方式显示自身血量 以及自定义头像<br>
+**dz_hpmark_debug.lua**:dz_visual的分支 显示全局玩家血量变动 测试<br>
+**dz_paimon_debug.lua**:dz_visual的分支 显示PAIMON的动画 测试<br>
 **dz_valorantkf.lua**:dz_visual的分支 瓦格兰特击杀特效(需要外部文件)<br>
-**dz_visual2.lua**:dz_visual的分支 支持天使光环和China hat绘制(需要注意性能问题!)<br>
-**dz_visibletime.lua**:性能问题待修复。<br>
-**dz_particle.lua**:计划<br>
-不会调整里面的value详见example文件夹下的图片<br><img width="884" height="687" alt="dz4" src="https://github.com/user-attachments/assets/446261ec-1a4f-4ea2-866c-f56354fe4b4a" />
-<img width="896" height="700" alt="dz3" src="https://github.com/user-attachments/assets/15fad131-7f7c-4004-b3cc-fc32d8ab1468" />
-<img width="896" height="704" alt="dz2" src="https://github.com/user-attachments/assets/0dfafc8c-c1b5-426c-b962-f4a7e4d1eb10" />
-<img width="900" height="695" alt="dz1" src="https://github.com/user-attachments/assets/78a989ab-9e08-4d1b-a042-d55c99ce4391" />
+**dz_hat(dz_visual2).lua**:dz_visual的分支 支持天使光环和China hat绘制(需要注意性能问题!)<br>
+**dz_visibletime.lua**:dz_visual的分支 性能问题待修复。<br>
+**dz_particle_orb_beta.lua**:dz_particle的分支 传说中可以挡子弹的浩劫球(需要注意性能问题!) 测试<br>
+**dz_safe_aimbot.lua**:自瞄跳过敌人上下车时 已被PRO合并进本体。<br>
+
 
 ## DangerZone.lua — 外部文件使用列表
 
 **dz_valorantkf.lua**:放在**Scripts/dz_project/valorant**<br>
+**dz_paimon_debug.lua**:放在**Scripts/dz_project/pm**<br>
+**dz_hpline.lua**:放在**Scripts/dz_project/avatar.png建议合适尺寸(可选)**<br>
 风险:无  均使用PNG文件。<br>
 ## 建议和反馈
 e-mail:**admin@00.sb**<br>
