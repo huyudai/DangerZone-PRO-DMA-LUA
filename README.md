@@ -35,7 +35,7 @@ LUA设计对用户而言非常安全<br>
 **dz_visibletime.lua**:dz_visual的分支 性能问题待修复。<br>
 **dz_particle_orb_beta.lua**:dz_particle的分支 传说中可以挡子弹的浩劫球(需要注意性能问题!) 测试<br>
 **dz_safe_aimbot.lua**:自瞄跳过敌人上下车时 已被PRO合并进本体。<br>
-
+**dz_gsindicator**:GAMESENSE风格指示器
 
 ## DangerZone.lua — 外部文件使用列表
 
