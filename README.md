@@ -26,6 +26,7 @@ LUA设计对用户而言非常安全<br>
 ## DangerZone.lua — 功能列表
 **dz_independPJPrader_fix.lua**:已被PRO于2026年9月3日合并进本体。<br>
 **dangerzone_legit.lua**: 已拆分<br>
+**dz_legit.lua**:dz_visual的分支 合法玩家显示<br>
 **dz_hp.lua**:dz_visual的分支 显示自身血量<br>
 **dz_hpline.lua**:dz_visual的分支 经络的方式显示自身血量 以及自定义头像<br>
 **dz_hpmark_debug.lua**:dz_visual的分支 显示全局玩家血量变动 测试<br>
